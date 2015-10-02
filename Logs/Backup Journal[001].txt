@@ -1,0 +1,7 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:kbrooks:4D_WORKSPACE:v13:Databases:Miyako_json:Miyako_json[0001].4BK
+Creating log backup : Macintosh HD:Users:kbrooks:4D_WORKSPACE:v13:Databases:Miyako_json:Miyako_json[0000].4BL
+Scheduled : 10/02/15 10:14:54
+Starting : 10/02/15 10:14:54
+Ending : 10/02/15 10:14:54
+
